@@ -1,5 +1,5 @@
 # Weekend-2-Assignment
-eHarmony data
+
 
 
 For this weekend's assignment we are looking at data from a  Marraige portal in this binary classification problem. The task is to predict that given certain features of the male and female, if a match can be predicted. The features are the following:
